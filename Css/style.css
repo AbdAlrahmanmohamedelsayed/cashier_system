@@ -36,6 +36,7 @@ a {
     justify-content: space-around;
     align-items: center;
     width: 70%;
+    margin-top: 30PX;
    }
    .list_drinks, .list_food {
     margin-bottom: 10px;
