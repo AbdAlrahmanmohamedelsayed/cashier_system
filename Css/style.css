@@ -85,12 +85,12 @@ a {
 }
   /* style fieldset employee */
  
-  .fieldset_employe label{
+    label{
     font-size: 30;
     color: #A79277;
     font-weight: bold;
   }
-  .fieldset_employe  input[type="text"],
+  input[type="text"],
   input[type="number"],
     textarea {
       width: 100%;
@@ -102,7 +102,7 @@ a {
       resize: none;
   }
   
-  .fieldset_employe   input[type="submit"] {
+   input[type="submit"] {
       background-color: #A79277;
       color: white;
       padding: 12px 20px;
